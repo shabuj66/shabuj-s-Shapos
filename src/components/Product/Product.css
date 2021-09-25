@@ -1,0 +1,33 @@
+.product-container{
+   display: flex;
+   border-bottom: 2px solid gray;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   margin-right: 5px;
+}
+.product-img{
+
+}
+.product-details{
+   margin-left: 50px;
+}
+.product-details h3{
+   font-size: 18px;
+   font-weight: 300;
+   color: #0101ff;
+}
+.details-items{
+   margin-top: 20px;
+}
+.details-items p{
+  margin-bottom: 10px;
+}
+/* btn design all product */
+.cart-btn{
+   border: none;
+   background-color: rgb(240, 153, 13);
+   color: #fff;
+   padding: 10px 30px;
+   font-size: 18px;
+   border-radius: 10px;
+}
